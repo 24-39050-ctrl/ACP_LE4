@@ -1,0 +1,7 @@
+Student No.: 1
+Full Name: Afafa, Afa A.
+Program: AFCA
+Age: 21
+Gender: Male
+Birthday: 10/25/2001
+Contact No.: 022562456

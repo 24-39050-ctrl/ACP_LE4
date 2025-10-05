@@ -1,0 +1,7 @@
+Student No.: 2
+Full Name: Mmo, Luna L.
+Program: ICTT
+Age: 21
+Gender: Female
+Birthday: 3/20/2005
+Contact No.: 01789825262
